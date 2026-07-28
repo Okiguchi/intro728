@@ -1,0 +1,15 @@
+Git Progateメモ
+
+git init【Enter】
+git add【Enter】
+git add.【Enter】
+git commit -m "メッセージ内容"【Enter】
+git remote add ファイル名 URL【Enter】
+git status【Enter】
+git diff【Enter】
+git push origin master【Enter】
+git pull origin master【Enter】
+git log【Enter】
+git log -p【Enter】
+
+Udemy復習開始
