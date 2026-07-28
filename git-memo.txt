@@ -13,3 +13,4 @@ git log【Enter】
 git log -p【Enter】
 
 Udemy復習開始
+ハンズオンでやりきることでなんとなくつながってきた！
