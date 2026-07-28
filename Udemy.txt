@@ -1,1 +1,2 @@
 Udemy git初級編いよいよ後半戦！
+git status
