@@ -7,10 +7,13 @@ git commit -m "メッセージ内容"【Enter】
 git remote add ファイル名 URL【Enter】
 git status【Enter】
 git diff【Enter】
+git diff HEAD【Enter】
 git push origin master【Enter】
 git pull origin master【Enter】
 git log【Enter】
 git log -p【Enter】
+git log --oneline【Enter】
+git log -n 3【Enter】
 
 Udemy復習開始
 ハンズオンでやりきることでなんとなくつながってきた！
